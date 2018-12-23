@@ -39,13 +39,16 @@
     "uniqCompNum": 26,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
-    "siteUrl": "",
+    "siteUrl": "https://hemino.github.io",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "يتم حفظ سجلات الكوكيز لضمان امان المستخدم ومنحه تجربة لا مثيل لها",
-    "gdpr": ""
+    "gdpr": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "H1.html": {
